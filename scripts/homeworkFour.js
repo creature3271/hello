@@ -1,0 +1,1 @@
+let dookie = document.getElementById("myImg");
